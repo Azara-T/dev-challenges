@@ -1,0 +1,38 @@
+body{
+    margin:0;
+}
+h1
+{
+    font-size: 72px;
+    text-align:center;
+    margin:0;
+    padding:10px;
+    color:#FFF;
+    background-color: #281B2D;
+}
+.subhead{
+color:#FCD801;
+background-color:#281B2D;
+border-bottom:5px solid #00C54C;
+font-size:48px;
+padding: 20px;
+}
+.container{
+    width:1000px;
+    margin:auto;
+}
+.columns
+{
+    display:flex;
+}
+.col-right {
+  margin-left:25px;
+}
+.sidebar
+{
+    margin-left:80px;
+}
+.main-content
+{
+    width:100%;
+}
