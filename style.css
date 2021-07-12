@@ -1,0 +1,12 @@
+body{
+    margin:0;
+}
+h1
+{
+    font-size: 72px;
+    text-align:center;
+    margin:0;
+    padding:10px;
+    color:#FFF;
+    background-color: #281B2D;
+}
